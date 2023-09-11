@@ -1,4 +1,4 @@
-md.md## Markdown
+# MARKDOWN
 
 ### What is Markdown?
 
@@ -35,5 +35,6 @@ Similarly,
 ###### Heading Level 6
 
 [An Introduction To Using Markdown](https://www.markdownguide.org/basic-syntax/)
+
 [Another Basic Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 

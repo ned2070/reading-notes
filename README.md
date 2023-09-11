@@ -4,7 +4,7 @@ _But my name is not ned!_
 
 It's Neill
 
-[Link to Github portfolio (https://github.com/ned2070/reading-notes) ]
+[Link to Github profile (https://github.com/ned2070 ]
 
 ## Growth Mindset
 

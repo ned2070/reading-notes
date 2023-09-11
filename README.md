@@ -1,10 +1,18 @@
-# ned2070.github.io
+# ned2070 is my username
+
+_But my name is not ned!_
+
+It's Neill
+
+[Link to Github portfolio (https://github.com/ned2070/reading-notes) ]
+
 ## Growth Mindset
+
 A growth mindset is about not imposing unneeded limits on yourself. It's about having confidence in your own ability to learn and improve.
 A few things to remember
 - Be inspired by others, not envious
-* Learn from _constructive_ criticism
-+ > Nil Desperandum!
+* Learn from criticism
++ > "Nil Desperandum!"[^1]
 
-[Link to Github portfolio (https://github.com/ned2070/reading-notes) ]
+[^1]: Do not despair! <sub> You probably knew this. </sub>
 

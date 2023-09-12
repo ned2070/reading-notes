@@ -15,7 +15,7 @@ Notepad on Windows is an example of a basic text editor. More powerful text edit
 
 There is no "best" text editor, it's a matter of personal preference.
 
-[More about text editors()https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf
+[More about text editors](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
 ### The Command Line
 

@@ -29,7 +29,7 @@ Best practice in web design is to avoid mixing content and presentation, hence *
 
 Inline CSS:
 
-\<P style="color: red;"\>Your text here!</P>
+\<P style="color: red;"\>Your text here!\</P\>
 Turns the text in this paragraph red.
 
 Internal CSS:
@@ -38,7 +38,7 @@ Internal CSS:
         p{color: red;}    
 \</style\>
 
-Turns all text on a page within a <p> tag red.
+Turns all text on a page within a \<p\> tag red.
 
 External CSS:
 

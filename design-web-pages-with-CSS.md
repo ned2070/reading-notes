@@ -8,7 +8,7 @@ The *cascading* term refers to the hierarchal system which determines which CSS 
 
 [More CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 
-[CSS Refernce](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+[CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 ### How is CSS used?
 
@@ -24,7 +24,21 @@ Best practice in web design is to avoid mixing content and presentation, hence *
 
 [More about using CSS](https://www.w3schools.com/css/css_howto.asp)
 
+
 ### Examples of CSS in use.
+
+Inline CSS:
+
+<P style="color: red;">Your text here!</P>
+Turns the text in this paragraph red.
+
+Internal CSS:
+
+<style>
+        p{color: red;}    
+</style>
+
+Turns all text on a page within a <p> tag red.
 
 [More about colours in CSS](https://www.w3schools.com/cssref/pr_text_color.php)
 

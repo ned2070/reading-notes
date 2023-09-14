@@ -34,9 +34,9 @@ Turns the text in this paragraph red.
 
 Internal CSS:
 
-\<style\>
-        p{color: red;}    
-\</style\>
+\<style\>\
+        p{color: red;}\    
+\</style\>\
 
 Turns all text on a page within a \<p\> tag red.
 
@@ -44,7 +44,7 @@ External CSS:
 
 p { color: red }
 
-Turns all text written within a <p> tag on any linked page red.
+Turns all text written within a \<p>\ tag on any linked page red.
 
 [More about colours in CSS](https://www.w3schools.com/cssref/pr_text_color.php)
 

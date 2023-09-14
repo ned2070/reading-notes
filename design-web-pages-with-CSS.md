@@ -4,7 +4,7 @@
 
 CSS stands for **Cascading Style Sheets**. CSS is a language which modifies the appearance of HTML documents from the bland default. HTML controls the *strucure* and *contents* of a web page. CSS controls its *style*.
 
-The *cascading* term refers to the hierarchal system which determines which CSS attribute is applied when different ones are given for e.g. a page and a paragraph.
+The *cascading* term refers to the ordee in which CSS attribute is applied.
 
 [More CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 
@@ -39,6 +39,12 @@ Internal CSS:
 </style>
 
 Turns all text on a page within a <p> tag red.
+
+External CSS:
+
+p { color: red }
+
+Turns all text written within a <p> tag on any linked page red.
 
 [More about colours in CSS](https://www.w3schools.com/cssref/pr_text_color.php)
 

@@ -36,9 +36,7 @@ Turns the text in this paragraph red.
 Internal CSS:
 
 \<style\>  
-
-        p{color: red;}  
-        
+        p{color: red;}         
 \</style\>  
 
 Turns all text on a page within a \<p\> tag red.

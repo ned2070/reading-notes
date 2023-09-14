@@ -18,7 +18,7 @@ There are **3** ways to insert CSS into a project.
 + **Internal** CSS. A *<style>* element containing CSS is added to the HTML header section of a web page, modifying that page.
 + **External** CSS. A *<link>* element in the header connects to a text file with a **.css** containing CSS - the *sheet* part of CSS.
 
-The *cascading* part refers to the hierarchal system which 
+Best practice in web design is to avoid mixing content and presentation, hence **external CSS is generally preferred** to internal CSS and the latter is preferred to inline CSS.
 
 
 

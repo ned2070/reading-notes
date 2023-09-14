@@ -4,11 +4,21 @@
 
 CSS stands for **Cascading Style Sheets**. CSS is a language which modifies the appearance of HTML documents from the bland default. HTML controls the *strucure* and *contents* of a web page. CSS controls its *style*.
 
+The *cascading* term refers to the hierarchal system which determines which CSS attribute is applied when different ones are given for e.g. a page and a paragraph.
+
 [More CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 
 [CSS Refernce](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 ### How is CSS used?
+
+There are **3** ways to insert CSS into a project.
+
++ **Inline** CSS. A *style* attribute containing CSS is added to a single HTML element, modifying that element alone.
++ **Internal** CSS. A *<style>* element containing CSS is added to the HTML header section of a web page, modifying that page.
++ **External** CSS. A *<link>* element in the header connects to a text file with a **.css** containing CSS - the *sheet* part of CSS.
+
+The *cascading* part refers to the hierarchal system which 
 
 
 

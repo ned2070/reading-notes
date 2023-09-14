@@ -44,7 +44,7 @@ External CSS:
 
 p { color: red }
 
-Turns all text written within a \<p>\ tag on any linked page red.
+Turns all text written within a \<p\> tag on any linked page red.
 
 [More about colours in CSS](https://www.w3schools.com/cssref/pr_text_color.php)
 

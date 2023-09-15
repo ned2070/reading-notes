@@ -44,6 +44,7 @@ Note that the mathematical equals sign in Javascript is ==.
 
 There is also a *strictly equals* sign, ===. Strict equality means that both the value and the variable typeare the same.
 
+
 A common use of variables is to store and manipulate *input* and *output*.
 
 Information *received* from the user is called **input**.
@@ -53,6 +54,7 @@ Information *received* from the user is called **input**.
 Conversely, information *sent* to the user is **output**.
 
 [Basic Javascrip output](https://code-maven.com/introduction-to-javascript)
+
 
 Input, information storage, information processing and output are the four basic functions carried out by all computers.
 

@@ -30,13 +30,30 @@ The **variable name** is the *label* on the container.
 
 **Declaring** a variable is the act of creating and naming it.
 
-Information received from the user is called **input**.
+Variables come in a variety of *types* depending on the type of information they hold.
+Variable types are defined in the programming language.
+
+An **Assignment** operator assigns a value to a variable. 
+The assigned value becomes the information contained by the variable.
+
+The assignment operator in Javascript is **=**.
+
+Note that the mathematical equals sign in Javascript is ==.
+
+There is also a *strictly equals* sign, ===. Strict equality means that both the value and the variable typeare the same.
+
+Information *received* from the user is called **input**.
+
+A common use of variables is to store and manipulate *input* and *output*.
 
 [Basic Javascript input](https://code-maven.com/javascript-input-with-prompt-and-confirm)
 
-Conversely, information sent to the user is **output**.
+Conversely, information *sent* to the user is **output**.
 
 [Basic Javascrip output](https://code-maven.com/introduction-to-javascript)
 
+Input, information storage, information processing and output are the four basic functions carried out by all computers.
 
 [More about how computers work (video)](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+
+---

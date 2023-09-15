@@ -1,4 +1,4 @@
-### DYBAMIC WEB PAGES WITH JAVASCRIPT
+### DYNAMIC WEB PAGES WITH JAVASCRIPT
 
 # What is Javascript?
 
@@ -8,8 +8,10 @@ Javascipt is a programming language which:
 + Can also be ran on a wen server to process data (*server side* or *back end*).
 + Should not be confused with *Java*, they are not the same thing!
 
-Javascript is an *interpreted* language, it is translated to the*machine language* used by the computer's *central processing unit* 
+Javascript is an *interpreted* language, it is translated to the *machine language* used by the computer's *central processing unit* 
 line by line as the program is running.
+
+(The alternative is a *compiled* language which is fully translated, i.e. compiled, before running the program.)
 
 Javascript can be written in a plain text file with the extension **.js**  
 
@@ -42,9 +44,9 @@ Note that the mathematical equals sign in Javascript is ==.
 
 There is also a *strictly equals* sign, ===. Strict equality means that both the value and the variable typeare the same.
 
-Information *received* from the user is called **input**.
-
 A common use of variables is to store and manipulate *input* and *output*.
+
+Information *received* from the user is called **input**.
 
 [Basic Javascript input](https://code-maven.com/javascript-input-with-prompt-and-confirm)
 

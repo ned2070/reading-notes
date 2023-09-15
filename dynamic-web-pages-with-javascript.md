@@ -22,10 +22,6 @@ A seperate .js page keeps programming separate from the contents and structure a
 [More about Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
-
-[Basic Javascrip output](https://code-maven.com/introduction-to-javascript)
-
-
 ### Javascipt Variables
 
 A **variable** is a *container* for a piece of information.  
@@ -36,6 +32,11 @@ The **variable name** is the *label* on the container.
 
 Information received from the user is called **input**.
 
-[Basic Javascript input](https://code-maven.com/introduction-to-javascript)
+[Basic Javascript input](https://code-maven.com/javascript-input-with-prompt-and-confirm)
+
+Conversely, information sent to the user is **output**.
+
+[Basic Javascrip output](https://code-maven.com/introduction-to-javascript)
 
 
+[More about how computers work (video)](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)

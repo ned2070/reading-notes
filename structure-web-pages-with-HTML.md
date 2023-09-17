@@ -50,7 +50,7 @@ Tags may also contain **attributes** e.g *font-size* which contain extra informa
 
 
 
-[HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element))
+[HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 
 A heading is an example of a *Semantic tag* .

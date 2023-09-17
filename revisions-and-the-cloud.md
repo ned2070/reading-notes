@@ -10,7 +10,7 @@
 
 Version Control is a system that allows you to record, track compare and revert changes in a file or set of files. The files and change records are called a **repository**.
 
-**Distributed** means that Git allows the creation of multiple *mirrored* repositories, i.e. the repos are copies of one another, to guard against the potential failure of a single *centralised* or *local* database of changes.
+**Distributed** means that Git allows the creation of multiple *mirrored* repositories, i.e. the repos are copies of one another, to guard against the potential failure of a single *centralised* or *local* database of changes. The repository can be thus be stored in the **cloud**.
 
 **Cloning** is the process of copying a repo to a mirrored repository.
 

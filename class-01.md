@@ -32,7 +32,7 @@ A HTML page is made up of **elements** which consist of _content_ and **tags** w
 
 Example:
 
-<\article> This element is of the article type </\article\>
+<article> This element is of the article type </article\>
 
 A tag may also have **attributes** which contain **metadata** about the element, i.e. data which is not part of the content. The size of a file, for instance, is data related to a file but not part of the file's contents; it is metadata about the file.
 
@@ -42,13 +42,13 @@ Name of attribute = "value of attribute"
 
 Example:
 
-<\section name = "mysection"\> This element has the section type and a name attribute with the value mysection <\/section\>
+<section name = "mysection"\> This element has the section type and a name attribute with the value mysection </section\>
 
 An _article_ element is used to group together related content while a _section_ element is used to group together related functionality.
 
 Tags are enclosed in angle brackets. Note backslash on closing tag.
 
-**Semantic** tags convey neaning in their names. For example it is better to use <\h1> tags for a heading rather than <\span> tags because the former conveys the meaning of a header to the browser. This can then be acted upon appropriately by e.g. screen reader software.
+**Semantic** tags convey neaning in their names. For example it is better to use <h1> tags for a heading rather than <span> tags because the former conveys the meaning of a header to the browser. This can then be acted upon appropriately by e.g. screen reader software.
 
 ### How to start to design a website
 

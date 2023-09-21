@@ -1,4 +1,4 @@
-# Reading Notes
+# READING NOTES
 
 ## Introduction
 ned2070 is my username
@@ -19,3 +19,22 @@ A few things to remember.
 
 [^1]: Do not despair! <sub> You probably knew this. </sub>
 
+## Contents
+
+### Code 102
+
++[]()
++[]()
++[]()
++[]()
++[]()
++[]()
++[]()
++[]()
+
+
+### Code 201
+
++[]()
+
+---
